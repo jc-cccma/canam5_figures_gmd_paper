@@ -1,5 +1,6 @@
-# canam5_figures_gmd_paper
-Scripts used to create figures in CanAM5 GMD paper
+# Repo for reproduction of figures in the CanAM5 paper submitted to GMD
+
+This repo contains the juytper notebooks used to produce all figures in the paper "The Canadian Atmospheric Model version 5 (CanAM5.0.3)" that is submitted to GMD.
 
 There are two directories:
 1. `Main_Text_Figures` - Create the figures in the main text
